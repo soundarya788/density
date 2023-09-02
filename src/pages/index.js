@@ -20,7 +20,7 @@ function MyComponent() {
         <span style={{ marginRight: '-160px' }}>Find designer</span>
         <span style={{ marginRight: '-160px' }}>Inspiration</span>
         <span style={{ marginRight: '-160px' }}>Learn design</span>
-        <span style={{ marginRight: '180px' }}>Go Pro</span>
+        <span style={{ marginRight: '180px' }}>Go pro</span>
         
         <span className="font-medium" style={{ marginRight: '-160px' }}>
         Log in </span>

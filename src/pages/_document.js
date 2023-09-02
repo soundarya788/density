@@ -5,6 +5,9 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body>
+        <div>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Wendy+One&display=swap" />
+        </div>
         <Main />
         <NextScript />
       </body>
